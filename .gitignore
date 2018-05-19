@@ -6,3 +6,5 @@ yarn-error.log*
 /ui/test/unit/coverage/
 /ui/test/e2e/reports/
 selenium-debug.log
+/server/venv/
+__pycache__/
